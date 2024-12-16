@@ -6,14 +6,14 @@ style="margin-top:64px;">
 <br>
 </p>
 
-## Description
-An Admin Dashboard web page.
+## Description:
+Admin Dashboard web page.
 
 The project is the capstone of the Intermediate HTML and CSS course of the Odin Project.
 
 The aim of the exercise is to practice CSS grid and combine this layout with the flexbox layout, to make a beautiful website
 
-## Time Spent 🕓
+## Time Spent: 🕓
 
 I spent a total of **12 hours and 45 minutes** working on this project, distributed over **4 days ☺️**.
 
@@ -24,18 +24,18 @@ I spent a total of **12 hours and 45 minutes** working on this project, distribu
 | 3 | 5 hours and 14 minutes |
 | 4 | 3 hours and 19 minutes |
 
-## Technologies Used
+## Technologies Used:
 
 - HTML
 - CSS (Flexbox, Grid).
 
-## Demo
+## Demo:
 
 You can view a live demo of the sign-up-Form [here](https://hayam999.github.io/Admin-Dashboard). 
 
 **Note: the project isn't responsive. so there well be some changes in your screen than in the picture above"**
 
 ## Credits:
-<a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/user" title="user icons">icons created by Freepik - Flaticon</a>
 
 
